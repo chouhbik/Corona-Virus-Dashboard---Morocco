@@ -1,2 +1,1 @@
-# chouhbik-gmail.com
-Coronavirus Dashboard - Morocco
+# Corona Virus Dashboard Morocco
